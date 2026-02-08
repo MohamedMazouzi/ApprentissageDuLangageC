@@ -7,4 +7,5 @@
 * [**Exercice 5 :** Année bissextile](./AnneeBissextile.c) : Tester si une année est bissextile en vérifiant les conditions de divisibilité.
 * [**Exercice 6 :** Nature d'un Triangle](./NatureTriangle.c) : Détermination de la nature d'un triangle(équilatéral, isocèle, rectangle ou scalène) à partir de la longueur de ses trois côtés.
 * [**Exercice 7 :** Équation du second degré](./EquationDeuxiemeDegre.c) : Résolution de l'équation ax^2 + bx + c = 0 dans R.
-* [**Exercice 7 :** Nombre Premier](./NombrePremier.c) : Vérifier si un nombre entier p>=2 est premier (divisible uniquement par 1 et par lui-même).
+* [**Exercice 8 :** Nombre Premier](./NombrePremier.c) : Vérifier si un nombre entier p>=2 est premier (divisible uniquement par 1 et par lui-même).
+* [**Exercice 9 :** Calcul de la Factorielle](./FactorielleEntier.c) : Vérifier si un nombre entier p>=2 est premier (divisible uniquement par 1 et par lui-même).
